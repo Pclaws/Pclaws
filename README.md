@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pclaws
-- 👀 I’m interested in computing science , Cybersecurity, Programming ,and Cloud Computing
-- 🌱 I’m currently learning React, tailwind,mongoDB, Restful API's, etc...
+- 👋 Hi, I’m Letshu Phinees Abel
+- 👀 I’m interested in computing science, Cybersecurity, Programming,and Cloud Computing
+- 🌱 I’m currently learning React, Tailwind, MongoDB, RESTful APIs, etc.
 - 💞️ I’m looking to collaborate on any interesting project
 
 <!---
